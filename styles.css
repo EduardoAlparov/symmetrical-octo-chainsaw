@@ -2,7 +2,7 @@
 
 :root {
     /* layout: */
-    --max-container-width: 168rem;
+    --max-container-width: 184rem;
     --content-padding: 1rem;
 
     /* colors: */
@@ -14,7 +14,7 @@
     --black: #000;
 
     /* typography: */
-    --main-ff: "Roboto", sans-serif;
+    --main-ff: 'Montserrat', sans-serif;
     --systemfont: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
 
     /* etc.: */

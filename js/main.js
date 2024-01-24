@@ -1,11 +1,11 @@
 import Modal from "./modules/Modal.js";
 import Map from "./modules/Map.js";
 
-import validation from './modules/validation.js';
-import masks from './modules/masks.js';
-import lazyload from './modules/lazyload.js';
+// import validation from './modules/validation.js';
+// import masks from './modules/masks.js';
+// import lazyload from './modules/lazyload.js';
 
-import fancybox from './modules/fancybox.js';
+// import fancybox from './modules/fancybox.js';
 
 import setHeaderPadding from './modules/setHeaderPadding.js';
 
@@ -44,14 +44,14 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // masks and validation:
-    validation();
-    masks();
+    // validation();
+    // masks();
 
     // lazyload for images, videos, iframes and objects:
-    lazyload();
+    // lazyload();
 
     // fancybox images modals:
-    fancybox();
+    // fancybox();
 
     // other scripts:
     setHeaderPadding();
